@@ -41,4 +41,4 @@ npsim \
    --outputFile ${simfile} \
    --enableGun --gun.particle ${particle} --gun.energy ${energy} || exit
 
-eicrecon -Ppodio:output_collections=HcalFarForwardZDCRawHits,HcalFarForwardZDCRecHits,MCParticles ${simfile}
+eicrecon -Ppodio:output_collections=HcalFarForwardZDCRecHits,MCParticles ${simfile}
