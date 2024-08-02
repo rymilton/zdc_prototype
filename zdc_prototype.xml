@@ -93,7 +93,7 @@
       />
 
     <constant name="ZDCPrototype_BackplateThickness" value="ZDCPrototype_AbsorberThickness"/>
-    <constant name="ZDCPrototype_Layer_NSteelRepeat" value="60"/>
+    <constant name="ZDCPrototype_Layer_NSteelRepeat" value="20"/>
 
     <constant name="ZDCPrototype_width" value= "25*cm"/>
     <constant name="ZDCPrototype_height" value= "25*cm"/>
