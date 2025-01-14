@@ -77,8 +77,8 @@
     <constant name="ZDCPrototype_AirThickness"                  value="0.02*cm"/>
     <constant name="ZDCPrototype_AbsorberThickness"             value="2*cm"/>
     <constant name="ZDCPrototype_ScintillatorCoverThickness"    value="0.04*cm"/>
-    <constant name="ZDCPrototype_PolystyreneThickness"          value="0.30*cm"/>
-    <constant name="ZDCPrototype_PCBThickness"                  value="0.08*cm"/>
+    <constant name="ZDCPrototype_PolystyreneThickness"          value="0.40*cm"/>
+    <constant name="ZDCPrototype_PCBThickness"                  value="0.16*cm"/>
     <constant name="ZDCPrototype_ESRFoilThickness"              value="0.015*cm"/>
 
     <documentation>

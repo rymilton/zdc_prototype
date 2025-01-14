@@ -20,6 +20,7 @@ install(DIRECTORY compact
     )
 
 #-----------------------------------------------------------------------------------
-INSTALL(FILES zdc_prototype.xml
+file(GLOB ZDC_PROTOTYPE_FILES "zdc_prototype*.xml")
+INSTALL(FILES ${ZDC_PROTOTYPE_FILES}
     DESTINATION share/${PROJECT_NAME}
     )
